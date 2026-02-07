@@ -1,0 +1,6 @@
+Started by user admin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/demo-job
+ERROR: Unable to connect to database
+Caused by: java.net.ConnectException: Connection refused
+Finished: FAILURE
